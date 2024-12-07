@@ -1,1 +1,1 @@
-# WebECommerce
+# WebECommerce. Solo el diseño.
